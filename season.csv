@@ -1,0 +1,11 @@
+day,temp,wind-speed
+2,45,12
+3,46,34
+4,47,45
+5,NaN,56
+6,49,NaN
+7,NaN,NaN
+8,12,45
+9,23,41
+10,NaN,NaN
+11,NaN,NaN
